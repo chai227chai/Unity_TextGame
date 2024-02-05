@@ -14134,6 +14134,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 8cb9ad80189b6dd48882f5b73a4660cc, type: 2}
   - {fileID: 11400000, guid: ae618d1aa87db834986ee28f89f95bcb, type: 2}
   - {fileID: 11400000, guid: 06b4b58433f4c4549aaf13d42d39f63a, type: 2}
+  - {fileID: 11400000, guid: afa7c41c312a6ea4eaccc0525586c6f6, type: 2}
+  - {fileID: 11400000, guid: b2007bbeed812e4489df010374c1f7b4, type: 2}
   scrollContentsParent: {fileID: 1812845640}
   itemPrefabs: {fileID: 4233644664093133989, guid: a0264b4f8a2c2d3469fa83ebf6b11d3b, type: 3}
 --- !u!1 &1838083054
